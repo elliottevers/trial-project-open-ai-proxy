@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "module": "CommonJS",          // Use CommonJS for Node.js
+    "target": "ES2020",            // Modern JavaScript
+    "esModuleInterop": true,       // Add compatibility for CommonJS
+    "allowSyntheticDefaultImports": true // Allow importing CommonJS modules as default
+  }
+}
